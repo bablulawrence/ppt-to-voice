@@ -198,5 +198,5 @@ local
 
 .python_packages
 
-/data
 *.pkl
+/data
