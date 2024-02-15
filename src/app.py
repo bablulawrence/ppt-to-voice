@@ -31,9 +31,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # Using the custom CSS class for the title
-    st.markdown('<div class="custom-title">CogniDeck</div>', unsafe_allow_html=True)
-    st.divider()
-    # st.title('CogniDeck')
+    # st.divider()
     
     # Folder where images and audio files are stored
     # root_folder_path = Path("C:/Users/61052067/data/pptread")
